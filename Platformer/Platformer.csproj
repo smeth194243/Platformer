@@ -19,7 +19,7 @@
     <DefineConstants>DEBUG;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <Optimize>true</Optimize>
@@ -45,10 +45,17 @@
     <Compile Include="View\AnimationPlayer.cs" />
     <Compile Include="Model\Enemy.cs" />
     <Compile Include="Model\Level.cs" />
+    <Compile Include="View\Circle.cs" />
+    <Compile Include="View\Gem.cs" />
+    <Compile Include="View\RectangleExtensions.cs" />
+    <Compile Include="View\Tile.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.manifest" />
     <None Include="Icon.png" />
+    <None Include="View\Background.png" />
+    <None Include="View\Game.ico" />
+    <None Include="View\GameThumbnail.png" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Icon.ico" />

@@ -1,0 +1,83 @@
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/obj/x86/Debug/Platformer.Icon.ico
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/MonoGame.Framework.dll
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x64/libopenal.so.1
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x64/soft_oal.dll
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x64/libSDL2-2.0.so.0
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x64/SDL2.dll
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x86/libopenal.so.1
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x86/soft_oal.dll
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x86/libSDL2-2.0.so.0
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x86/SDL2.dll
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/MonoGame.Framework.dll.config
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/libopenal.1.dylib
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/libSDL2-2.0.0.dylib
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Backgrounds/Layer0_0.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Backgrounds/Layer0_1.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Backgrounds/Layer0_2.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Backgrounds/Layer1_0.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Backgrounds/Layer1_1.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Backgrounds/Layer1_2.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Backgrounds/Layer2_0.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Backgrounds/Layer2_1.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Backgrounds/Layer2_2.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Fonts/Hud.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Levels/0.txt
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Levels/1.txt
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Levels/2.txt
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Overlays/you_died.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Overlays/you_lose.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Overlays/you_win.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/ExitReached.ogg
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/ExitReached.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/GemCollected.ogg
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/GemCollected.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/MonsterKilled.ogg
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/MonsterKilled.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/Music.ogg
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/Music.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/PlayerFall.ogg
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/PlayerFall.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/PlayerJump.ogg
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/PlayerJump.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/PlayerKilled.ogg
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/PlayerKilled.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/Powerup.ogg
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/Powerup.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster A/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster A/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster B/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster B/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster C/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster C/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster D/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster D/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Player/Celebrate.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Player/Die.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Player/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Player/Jump.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Player/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Gem.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/BlockA0.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/BlockA1.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/BlockA2.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/BlockA3.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/BlockA4.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/BlockA5.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/BlockA6.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/BlockB0.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/BlockB1.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/Exit.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Tiles/Platform.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Platformer.pdb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Platformer.exe
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/obj/x86/Debug/Platformer.exe
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/obj/x86/Debug/Platformer.pdb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterA/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterA/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterB/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterB/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterC/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterC/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterD/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterD/Run.xnb
