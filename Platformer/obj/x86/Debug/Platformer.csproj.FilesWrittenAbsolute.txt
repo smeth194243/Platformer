@@ -1,6 +1,5 @@
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/obj/x86/Debug/Platformer.Icon.ico
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/MonoGame.Framework.dll
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x64/libopenal.so.1
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x64/soft_oal.dll
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/x64/libSDL2-2.0.so.0
@@ -44,14 +43,15 @@
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/PlayerKilled.xnb
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/Powerup.ogg
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sounds/Powerup.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster A/Idle.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster A/Run.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster B/Idle.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster B/Run.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster C/Idle.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster C/Run.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster D/Idle.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Monster D/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterA/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterA/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterB/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterB/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterC/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterC/Om-Nom.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterC/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterD/Idle.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterD/Run.xnb
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Player/Celebrate.xnb
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Player/Die.xnb
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/Player/Idle.xnb
@@ -73,11 +73,4 @@
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Platformer.exe
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/obj/x86/Debug/Platformer.exe
 /Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/obj/x86/Debug/Platformer.pdb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterA/Idle.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterA/Run.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterB/Idle.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterB/Run.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterC/Idle.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterC/Run.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterD/Idle.xnb
-/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/Content/Sprites/MonsterD/Run.xnb
+/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/bin/Debug/MonoGame.Framework.dll

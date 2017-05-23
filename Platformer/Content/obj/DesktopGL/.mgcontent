@@ -44,11 +44,11 @@
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Tiles/Platform.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterD/Idle.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterD/Run.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterC/Idle.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterC/Run.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterB/Idle.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterB/Run.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterA/Idle.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterA/Run.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterC/Idle.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterC/Run.png</File>
   </SourceFiles>
 </SourceFileCollection>
