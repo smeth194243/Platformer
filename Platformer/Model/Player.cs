@@ -307,7 +307,7 @@ namespace Platformer
                         jumpSound.Play();
 
                     jumpTime += (float)gameTime.ElapsedGameTime.TotalSeconds;
-                    sprite.PlayAnimation(jumpAnimation);
+                    //sprite.PlayAnimation(jumpAnimation);
                 }
 
                 // If we are in the ascent of the jump
@@ -417,7 +417,7 @@ namespace Platformer
             else
                 fallSound.Play();
 
-            sprite.PlayAnimation(dieAnimation);
+            //sprite.PlayAnimation(dieAnimation);
         }
 
         /// <summary>
@@ -425,7 +425,7 @@ namespace Platformer
         /// </summary>
         public void OnReachedExit()
         {
-            sprite.PlayAnimation(celebrateAnimation);
+            //sprite.PlayAnimation(celebrateAnimation);
         }
 
         /// <summary>

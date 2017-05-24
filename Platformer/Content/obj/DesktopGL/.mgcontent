@@ -28,9 +28,6 @@
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/Gem.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/Player/Celebrate.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/Player/Die.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/Player/Idle.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/Player/Jump.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/Player/Run.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Tiles/BlockA0.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Tiles/BlockA1.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Tiles/BlockA2.png</File>
@@ -50,5 +47,7 @@
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterA/Run.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterC/Idle.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterC/Run.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/Player/Idle.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/Player/Run.png</File>
   </SourceFiles>
 </SourceFileCollection>
