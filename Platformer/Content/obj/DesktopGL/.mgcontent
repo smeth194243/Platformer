@@ -4,15 +4,6 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer0_0.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer0_1.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer0_2.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer1_0.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer1_1.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer1_2.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer2_0.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer2_1.png</File>
-    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer2_2.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Fonts/Hud.spritefont</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Overlays/you_died.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Overlays/you_lose.png</File>
@@ -49,5 +40,14 @@
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/MonsterC/Run.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/Player/Idle.png</File>
     <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Sprites/Player/Run.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer0_0.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer0_1.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer0_2.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer1_0.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer1_1.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer1_2.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer2_0.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer2_1.png</File>
+    <File>/Users/smor7432/Documents/Game Dev/projects/Platformer/Platformer/Content/Backgrounds/Layer2_2.png</File>
   </SourceFiles>
 </SourceFileCollection>
