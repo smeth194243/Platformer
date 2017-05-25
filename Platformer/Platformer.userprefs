@@ -7,7 +7,7 @@
       <File FileName="View/Gem.cs" Line="79" Column="1" />
       <File FileName="Model/Enemy.cs" Line="104" Column="90" />
       <File FileName="View/AnimationPlayer.cs" Line="84" Column="1" />
-      <File FileName="Model/Player.cs" Line="72" Column="55" />
+      <File FileName="Model/Player.cs" Line="428" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
